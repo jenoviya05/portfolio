@@ -94,8 +94,10 @@ Upload to GitHub Pages for free hosting.
 ~~~
 
 
+
 ## OUTPUT
-![alt text](<Screenshot 2026-10-21 143329.png>)
+
+![Portfolio Output](<Screenshot 2026-10-21 143329.png>)
 
 
 ## RESULT
