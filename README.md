@@ -49,8 +49,53 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 
-## OUTPUT
+~~~
 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jenoviya Portfolio</title>
+</head>
+<body>
+    <center>
+        <img src="myphoto.jpeg" width="100" alt="My Photo">
+        <h1>JENOVIYA D </h1>
+        <p>Saveetha Engineering College</p>
+    </center>
+    <hr>
+
+    <h2>About Me</h2>
+    <p> Hello! I am Jenoviya D, pursuing B.E. Computer
+        Science and Engineering at Saveetha Engineering College.
+        I am interested in programming, web development,
+        software development and emerging technologies.
+        I enjoy learning new skills and solving problems.</p>
+
+    <h2>Skills</h2>
+    <p>Python | C | HTML | JavaScript | Pandas</p>
+
+    <h2>Achievements</h2>
+    <p>TNEA Merit Scholarship Achiever 2025</p>
+    <p>100% Scholarship Recipient</p>
+
+    <h2>Activities</h2>
+    <p>Event Coordinator - Green Warriors Club</p>
+
+    <h2>Contact</h2>
+    <p>Email: jenoviyadavidmanickam05@gmail.com</p>
+
+    <center>
+        <p>Learning today, building tomorrow.</p>
+    </center>
+</body>
+</html>
+
+~~~
+
+
+## OUTPUT
+![alt text](<Screenshot 2026-10-21 143329.png>)
 
 
 ## RESULT
