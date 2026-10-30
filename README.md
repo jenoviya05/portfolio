@@ -97,7 +97,8 @@ Upload to GitHub Pages for free hosting.
 
 ## OUTPUT
 
-![Portfolio Output](<Screenshot 2026-10-21 143329.png>)
+<img width="1917" height="1078" alt="Screenshot 2026-10-21 143329" src="https://github.com/user-attachments/assets/83fb23d9-c9e7-47be-a239-8c0401224ef3" />
+
 
 
 ## RESULT
